@@ -1,6 +1,7 @@
 # typescript Ejercicios
 
-1 Índice de masa corporal
+**1 Índice de masa corporal**
+
 Crea el código de este ejercicio en el archivo bmiCalculator.ts
 
 Escribe una función calculateBmi que cuente el IMC según la altura (en centímetros) y el peso (en kilogramos) y que luego devuelva un mensaje que se adapte a los resultados.
@@ -15,7 +16,7 @@ Normal (healthy weight)
 
 Crea un script npm para ejecutar el programa con el comando npm run calculateBmi
 
-2 Calculadora de ejercicio
+**2 Calculadora de ejercicio**
 
 Crea el código de este ejercicio en el archivo  exerciseCalculator.ts
 
@@ -58,4 +59,5 @@ Crea un script npm npm run calculateExercises para llamar a la función con va
 
 Recursos:
 https://fullstackopen.com/es/part9/antecedentes_e_introduccion
+
 https://www.youtube.com/watch?v=fUgxxhI_bvc
