@@ -1,3 +1,5 @@
+// inferencia
+
 let texto = "hola mundo";
 
 texto.math(1);
