@@ -38,3 +38,4 @@ Crea un script npm npm run calculateExercises para llamar a la función con va
 
 Recursos:
 https://fullstackopen.com/es/part9/antecedentes_e_introduccion
+https://www.youtube.com/watch?v=fUgxxhI_bvc
