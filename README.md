@@ -1,6 +1,6 @@
 # typescript Ejercicios
 
-**1 Índice de masa corporal**
+**_1 Índice de masa corporal_**
 
 Crea el código de este ejercicio en el archivo bmiCalculator.ts
 
@@ -16,7 +16,7 @@ Normal (healthy weight)
 
 Crea un script npm para ejecutar el programa con el comando npm run calculateBmi
 
-**2 Calculadora de ejercicio**
+**_2 Calculadora de ejercicio_**
 
 Crea el código de este ejercicio en el archivo  exerciseCalculator.ts
 
